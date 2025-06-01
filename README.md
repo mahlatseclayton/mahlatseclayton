@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @mahlatseclayton
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning computer science at wits university
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I’m **Mahlatse Clayton Maredi**
 
-<!---
-mahlatseclayton/mahlatseclayton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Second-year Computer Science student at Wits University  
+💻 Passionate about building meaningful tech — from mobile apps to backend systems  
+📱 Currently working on Android development (Java, PHP, MySQL, OkHttp)  
+🚀 Interested in full-stack development, AI, and creating intuitive user experiences  
+🛠️ Always exploring new tools, frameworks, and ways to level up my code  
+🌟 I believe in learning by doing and coding with purpose
+
+📫 Reach me at: mahlatseclayton1@gmail.com  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/mahlatse-maredi-a74650302/)
